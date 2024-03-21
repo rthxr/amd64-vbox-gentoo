@@ -28,6 +28,6 @@
 <b>9. Compilando o bootloader e montando no disco</b><br>
 <b>10. Adicinando uma senha de root e um diretório home para o usuário</b><br><br>
 
-<br><a href="en-us/readme.md">[en-US] amd64-vbox-gentoo</a><br>
-<a href="pt-br/readme.md">[pt-BR] amd64-vbox-gentoo</a>
+<br><a href="en_us/readme.md">[en-US] amd64-vbox-gentoo</a><br>
+<a href="pt_br/readme.md">[pt-BR] amd64-vbox-gentoo</a>
 </i></div>
